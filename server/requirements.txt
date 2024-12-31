@@ -1,0 +1,12 @@
+fastapi 
+uvicorn 
+motor 
+redis
+numpy 
+pydantic-settings
+python-multipart
+aiohttp 
+pillow
+facenet-pytorch 
+torch 
+torchvision 
